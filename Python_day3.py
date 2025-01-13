@@ -15,28 +15,28 @@ while i < 3:
 
 
 #task 2 (a)
-print('Task 2a ')
+print('Task 2(a)')
 for i in range(4):      
     for j in range(4):  
         print("*", end="") 
     print() 
 
 #task 2 (b)
-print('Task 2b ')
+print('Task 2(b) ')
 for i in range(4):        
     for j in range(i + 1):    
         print("*", end="")   
     print()               
 
 #task 2 (c)
-print('Task 2c ')
+print('Task 2(c)')
 for i in range(1, 4 + 1):  
     for j in range(i):    
         print(i, end=" ")  
     print()    
 
 #task 2 (d)
-print('Task 2d ')
+print('Task 2(d)')
 for i in range(4):  
     num = 1          
     for j in range(i + 1): 
