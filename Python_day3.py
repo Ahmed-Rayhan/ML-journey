@@ -38,8 +38,8 @@ for i in range(1, 4 + 1):
 #task 2 (d)
 print('Task 2(d)')
 for i in range(4):  
-    num = 1          
+    number = 1          
     for j in range(i + 1): 
-        print(num, end=" ") 
-        num += 2       
+        print(number, end=" ") 
+        number += 2       
     print()     
